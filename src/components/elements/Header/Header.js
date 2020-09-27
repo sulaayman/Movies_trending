@@ -9,7 +9,9 @@ const Header = () => {
             <Link to='/'>
                 <img src="./images/reactMovie_logo.png" alt="rmdb-logo" className="rmdb-logo"/>
             </Link>
+            <img src="./images/sbo.png" alt="tmdb-logo" className="rmdb-tmdb-logo"/>
             <img src="./images/tmdb_logo.png" alt="tmdb-logo" className="rmdb-tmdb-logo"/>
+
         </div>
 
         </div>
